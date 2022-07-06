@@ -5,3 +5,7 @@
 INTEGRANTES:
 -ANDREA RODAS ALZATE 11°1
 # Institucion educativa santa elena
+
+q1
+
+
